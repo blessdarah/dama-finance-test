@@ -1,0 +1,25 @@
+{
+    "name": "dama-finance-test",
+    "version": "1.0.0",
+    "description": "Dama finance test npm package",
+    "main": "index.js",
+    "scripts": {
+        "test": "test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/blessdarah/dama-finance-test.git"
+    },
+    "keywords": [
+        "damafinance"
+    ],
+    "author": "bless darah <blessdarahuba@gmail.com> (https://github.com/blessdarah/dama-finance-test)",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/blessdarah/dama-finance-test/issues"
+    },
+    "homepage": "https://github.com/blessdarah/dama-finance-test#readme",
+    "engines": {
+        "node": ">= 9.0.0"
+    }
+}
